@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a857841e-7eda-49a6-9fc3-cdb958e6d2a9": {
+      "ProjectGuid": "a857841e-7eda-49a6-9fc3-cdb958e6d2a9",
+      "DisplayName": "Model",
+      "ColorIndex": 0
+    },
+    "9a9cd0da-3f64-4a76-ab73-cfa1dfcfe5cd": {
+      "ProjectGuid": "9a9cd0da-3f64-4a76-ab73-cfa1dfcfe5cd",
+      "DisplayName": "Presenter",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
