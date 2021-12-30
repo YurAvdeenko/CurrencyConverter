@@ -1,0 +1,6 @@
+C:\Users\parfe\source\repos\CurrencyConverter\View\bin\Debug\View.dll
+C:\Users\parfe\source\repos\CurrencyConverter\View\bin\Debug\View.pdb
+C:\Users\parfe\source\repos\CurrencyConverter\View\obj\Debug\View.csproj.AssemblyReference.cache
+C:\Users\parfe\source\repos\CurrencyConverter\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\parfe\source\repos\CurrencyConverter\View\obj\Debug\View.dll
+C:\Users\parfe\source\repos\CurrencyConverter\View\obj\Debug\View.pdb
