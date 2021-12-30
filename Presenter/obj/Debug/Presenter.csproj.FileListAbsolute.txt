@@ -1,0 +1,11 @@
+C:\Users\parfe\source\repos\CurrencyConverter\Presenter\bin\Debug\Presenter.dll
+C:\Users\parfe\source\repos\CurrencyConverter\Presenter\bin\Debug\Presenter.pdb
+C:\Users\parfe\source\repos\CurrencyConverter\Presenter\bin\Debug\Model.dll
+C:\Users\parfe\source\repos\CurrencyConverter\Presenter\bin\Debug\View.dll
+C:\Users\parfe\source\repos\CurrencyConverter\Presenter\bin\Debug\Model.pdb
+C:\Users\parfe\source\repos\CurrencyConverter\Presenter\bin\Debug\View.pdb
+C:\Users\parfe\source\repos\CurrencyConverter\Presenter\obj\Debug\Presenter.csproj.AssemblyReference.cache
+C:\Users\parfe\source\repos\CurrencyConverter\Presenter\obj\Debug\Presenter.csproj.CoreCompileInputs.cache
+C:\Users\parfe\source\repos\CurrencyConverter\Presenter\obj\Debug\Presenter.dll
+C:\Users\parfe\source\repos\CurrencyConverter\Presenter\obj\Debug\Presenter.pdb
+C:\Users\parfe\source\repos\CurrencyConverter\Presenter\obj\Debug\Presenter.csproj.CopyComplete
